@@ -20,7 +20,7 @@ class CreatePessoasTable extends Migration
             $table->integer('idade');
             $table->string('estado');
             $table->string('pais');
-            $table->bigIncrements('registrado_por');
+            $table->unsignedBigInteger('registrado_por');
             $table->timestamps();
             $table->softDeletes();
             $table->foreign('registrado_por')->references('id')->on('pessoas');
