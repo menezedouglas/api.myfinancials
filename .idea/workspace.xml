@@ -120,6 +120,8 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/laravellegends/pt-br-validator" />
+      <path value="$PROJECT_DIR$/vendor/lucascudo/laravel-pt-br-localization" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hhmszV7UC9aVtgM4WwNLrwIoNl" />
@@ -154,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600471910630</updated>
-      <workItem from="1600471912265" duration="2391000" />
+      <workItem from="1600471912265" duration="7474000" />
     </task>
     <servers />
   </component>
@@ -170,6 +172,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="824" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1600473350026" />
+    <state x="370" y="298" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600478354599">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="370" y="298" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1600478354599" />
     <state width="843" height="284" key="GridCell.Tab.0.bottom" timestamp="1600474159245">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -190,5 +196,9 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state width="257" height="539" key="HiddenNamespacesPopup/0.0.2560.1080@0.0.2560.1080" timestamp="1600472693869" />
+    <state x="474" y="468" key="NewPhpFileDialog" timestamp="1600477429262">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="474" y="468" key="NewPhpFileDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1600477429262" />
   </component>
 </project>

@@ -17,13 +17,12 @@ class CreatePessoasTable extends Migration
             $table->id();
             $table->string('nome');
             $table->string('cpf');
-            $table->integer('idade');
-            $table->string('estado');
-            $table->string('pais');
-            $table->unsignedBigInteger('registrado_por');
+            $table->integer('idade')->nullable();
+            $table->string('estado')->nullable();
+            $table->string('pais')->nullable();
+            $table->bigInteger('registrado_por')->nullable();
             $table->timestamps();
             $table->softDeletes();
-            $table->foreign('registrado_por')->references('id')->on('pessoas');
         });
     }
 
